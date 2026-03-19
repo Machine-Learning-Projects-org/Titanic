@@ -49,6 +49,7 @@ pip install pandas scikit-learn matplotlib
 
 # 3. Run notebook
 jupyter notebook Titanic.ipynb
+```
 
 📈 Key Learnings
 KNN hyperparameter tuning (k=1-10)
