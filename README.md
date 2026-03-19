@@ -26,3 +26,45 @@
 | Logistic Regression |  **155 survivors** |
 
 **KNN k-tuning results:**
+k=1: 97.8% (overfit)
+k=5: 81.1% (optimal)
+k=10: 76.7% (underfit)
+
+
+## 📁 **Files**
+├── train.csv # Training data (891 records)
+├── test.csv # Test data (418 records)
+├── Titanic.ipynb # Complete analysis & predictions
+└── README.md # This file
+
+
+## 🚀 **How to Run**
+```bash
+# 1. Clone repo
+git clone <your-repo-url>
+cd Titanic-Survival-Prediction
+
+# 2. Install dependencies
+pip install pandas scikit-learn matplotlib
+
+# 3. Run notebook
+jupyter notebook Titanic.ipynb
+
+📈 Key Learnings
+KNN hyperparameter tuning (k=1-10)
+
+Handling missing categorical/numerical data
+
+Dummy encoding for classification
+
+Model comparison without test labels
+
+Real-world data preprocessing pipeline
+
+👥 Author
+Nihal Pujari
+LinkedIn | Data Science Student
+
+📄 License
+MIT License - free to use for learning/portfolio
+
