@@ -20,9 +20,9 @@
 
 ## 🤖 **Models Implemented**
 
-| Model | Training Accuracy | Test Predictions |
-|-------|------------------|------------------|
-| KNN (k=5) | **81.1%** | **154 survivors** |
-| Logistic Regression | - | **155 survivors** |
+| Model | Test Predictions |
+|-------|------------------|
+| KNN (k=5) | **154 survivors** |
+| Logistic Regression |  **155 survivors** |
 
 **KNN k-tuning results:**
