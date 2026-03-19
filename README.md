@@ -51,7 +51,7 @@ pip install pandas scikit-learn matplotlib
 jupyter notebook Titanic.ipynb
 ```
 
-📈 Key Learnings
+##📈 **Key Learnings**
 KNN hyperparameter tuning (k=1-10)
 
 Handling missing categorical/numerical data
@@ -62,7 +62,7 @@ Model comparison without test labels
 
 Real-world data preprocessing pipeline
 
-👥 Author
+##👥 **Author**
 Nihal Pujari
 LinkedIn | Data Science Student
 
